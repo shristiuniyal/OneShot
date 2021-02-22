@@ -1,0 +1,46 @@
+[{
+"college_id" : "a1",
+"name" : "assisi",
+"year_founded" : 1994,
+"city" :"kochi",
+"state" : "kerala",
+"country" :"india",
+"courses" : ["cse","ece","che"]
+},
+{
+    "college_id" : "a2",
+    "name" : "bhavans",
+    "year_founded" : 1991,
+    "city" :"kochi",
+    "state" : "kerala",
+    "country" :"india",
+    "courses" : ["cse","ece","mech"]
+},
+{
+    "college_id" : "a3",
+    "name" : "svn",
+    "year_founded" : 1991,
+    "city" :"aluva",
+    "state" : "kerala",
+    "country" :"india",
+    "courses" : ["cse","ece","che"]
+},
+{
+    "college_id" : "b1",
+    "name" : "bvs",
+    "year_founded" : 1992,
+    "city" :"coimbatore",
+    "state" : "tamil nadu",
+    "country" :"india",
+    "courses" : ["cse","ece","bds"]
+},
+{
+    "college_id" : "b2",
+    "name" : "psg tech",
+    "year_founded" : 1991,
+    "city" :"coimbatore",
+    "state" : "tamil nadu",
+    "country" :"india",
+    "courses" : ["cse","ece","bds","textile","che"]
+}
+]

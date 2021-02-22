@@ -1,0 +1,86 @@
+[
+    {
+        "name" : "aakash",
+        "student_id" : "17bec0096",
+        "date" : 2017,
+        "college_id" : "a1",
+        "skills" : ["c++","sql","java"]
+    },
+    {
+    "name" : "suyash",
+    "student_id" : "17bec0006",
+    "date" : 2017,
+    "college_id" : "a1",
+    "skills" : ["mongodb","javascript","java"]
+    },
+    {
+    "name" : "mihir",
+    "student_id" : "17bce0394",
+    "date" : 2015,
+    "college_id" : "a1",
+    "skills" : ["c++","typescript","java"]
+    },
+    {
+    "name" : "bhatt",
+    "student_id" : "17bcm0394",
+    "date" : 2015,
+    "college_id" : "a3",
+    "skills" : ["go lang","swift"]
+    },
+    {
+    "name" : "ronaldo",
+    "student_id" : "17bce0399",
+    "date" : 2016,
+    "college_id" : "a3",
+    "skills" : ["go lang","ruby"]
+    },
+    {
+    "name" : "ronaldhino",
+    "student_id" : "17bcm0494",
+    "date" : 2015,
+    "college_id" : "b2",
+    "skills" : ["go lang","swift"]
+    },
+    {
+    "name" : "rakesh",
+    "student_id" : "17bce0366",
+    "date" : 2015,
+    "college_id" : "a2",
+    "skills" : ["go lang","swift"]
+    },
+    {
+    "name" : "manan",
+    "student_id" : "17btx0397",
+    "date" : 2015,
+    "college_id" : "b2",
+    "skills" : ["flutter","redux"]
+    },
+    {
+    "name" : "bhatt",
+    "student_id" : "17bme0377",
+    "date" : 2015,
+    "college_id" : "a2",
+    "skills" : ["go lang","swift"]
+    },
+    {
+    "name" : "niranjan",
+    "student_id" : "17bme0444",
+    "date" : 2015,
+    "college_id" : "a2",
+    "skills" : ["scikit","tensorflow"]
+    },
+    {
+    "name" : "natasha",
+    "student_id" : "17bds0393",
+    "date" : 2015,
+    "college_id" : "b1",
+    "skills" : ["typescript","php"]
+    },
+    {
+    "name" : "chetna",
+    "student_id" : "17bds0390",
+    "date" : 2015,
+    "college_id" : "b1",
+    "skills" : ["linux","sql"]
+    }
+]
